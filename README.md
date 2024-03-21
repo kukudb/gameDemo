@@ -94,6 +94,6 @@
 
 最后，游戏demo视频
 
-<video src="https://raw.githubusercontent.com/kukudb/gameDemo/main/2024-03-21%2021-09-47_x264.mp4?raw=true" controls="controls">
+<video src="https://github.com/kukudb/gameDemo/blob/main/2024-03-21%2021-09-47_x264.mp4?raw=true" controls="controls">
 您的浏览器不支持 video 标签。
 </video>
