@@ -11,13 +11,21 @@
 
 2.负责摄像机系统的开发
 使用cinemachine负责场景中不同摄像机的切换。对各个事件设置优先级，优先级高会先执行，相同的事件会覆盖。由于事件触发会剥夺摄像机，如果不加以限制，就会出现镜头切换太快的闪屏效果。考虑到这点使用协程队列管理触发摄像机切换的事件，一次只start一个协程。
+
 全屏镜头：
+
 ![image](https://github.com/kukudb/gameDemo/assets/134269517/4d1a5b14-358f-4d2a-91f3-d34f80db8faf)
+
 分屏镜头：
+
 ![image](https://github.com/kukudb/gameDemo/assets/134269517/fc721435-2638-4654-a92a-f2e13a50894e)
+
 第一名镜头：
+
 ![image](https://github.com/kukudb/gameDemo/assets/134269517/bc176a93-b334-49b8-a2db-fccb61aea2b8)
+
 最后一名镜头：
+
 ![image](https://github.com/kukudb/gameDemo/assets/134269517/8a76348c-c0fd-4b3d-a910-1dd308c7dfb2)
 
 
