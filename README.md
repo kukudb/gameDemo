@@ -98,8 +98,6 @@
 https://github.com/kukudb/gameDemo/assets/134269517/59228652-3352-4574-b02d-ccfd8173b15a
 
 
-<video src="https://raw.githubusercontent.com/kukudb/gameDemo/main/b.mp4" controls="controls">
-您的浏览器不支持 video 标签。
-</video>
+
 画质较高的视频：
 https://raw.githubusercontent.com/kukudb/gameDemo/main/a.mp4
