@@ -94,7 +94,7 @@
 
 最后，游戏demo视频
 
-<video src="https://github.com/kukudb/gameDemo/blob/main/a.mp4?raw=true" controls="controls">
+<video src="https://raw.githubusercontent.com/kukudb/gameDemo/main/b.mp4?raw=true" controls="controls">
 您的浏览器不支持 video 标签。
 </video>
 https://raw.githubusercontent.com/kukudb/gameDemo/main/a.mp4
